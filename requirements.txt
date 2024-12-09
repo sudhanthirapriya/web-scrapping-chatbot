@@ -1,0 +1,10 @@
+langchain
+chromadb
+langchain-google-genai
+python-dotenv
+streamlit
+bs4
+rank-bm25
+langchain-groq
+langchain-chroma
+flask
